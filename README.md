@@ -17,17 +17,17 @@ https://github.com/TomLingham/Laravel-Searchy/tree/1.0
 
 ## Installation
 
-Add `"highsolutions/laravel-searchy" : "^11.0"` to your composer.json file under `require`:
+Add `"highsolutions/laravel-searchy" : "^12.0"` to your composer.json file under `require`:
 
 ```json
 "require": {
-  "highsolutions/laravel-searchy" : "^11.0"
+  "highsolutions/laravel-searchy" : "^12.0"
 }
 ```
 
 Run `composer update` in your terminal to pull down the package into your vendors folder.
 
-Supports Laravel 6, 7, 8, 9, 10, 11.
+Supports Laravel 6, 7, 8, 9, 10, 11, 12.
 
 ## Usage
 
